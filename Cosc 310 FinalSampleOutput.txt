@@ -1,0 +1,63 @@
+Connect to a server? (y/n):
+n
+<Dispatcher> Hello
+Hi
+<Dispatcher> Hi, this is Batman. Ask me about crime fighting...
+But, I'm witnessing a hostage situation
+<Dispatcher> Where are the hostages?
+I don't know
+<Dispatcher> Why are you bothering Batman with questions about that?
+But this is an emergency
+<Dispatcher> Do you need Fire, Ambulance, or Police?
+I need the police
+<Dispatcher> OK. The police has been dispatched. What are your coordinates?
+I'm not sure what my coordinates are.
+<Dispatcher> At what address are you located?
+3333 University Way, Kelowna
+<Dispatcher> Your location in latitude/longitude coordinates is: 49.940033,-119.39273
+thanks
+<Dispatcher> You're welcome.
+I need help finding a place near here
+<Dispatcher> What place are you looking for?
+RCMP near kelowna
+<Dispatcher> The nearest place is: Royal Canadian Mounted Police at 350 Doyle Ave, Kelowna, BC, Canada
+Can you give me directions to get there?
+<Dispatcher> Where are you right now?
+3333 University Way, Kelowna
+<Dispatcher> And where would you like to go?
+350 Doyle Ave, Kelowna
+<Dispatcher> Head east on University Way. At the roundabout, take the  1st exit onto Hollywood Rd N. At the roundabout, take the 2nd exit onto the BC-97 S ramp. Merge onto BC-97 S. Continue onto Hwy 97 N. Continue onto Harvey Ave/BC-97 S. Turn  right  onto Water St. Turn right onto Doyle Ave. Destination will be on the left.
+Is the police on the way?
+<Dispatcher> I'll be there as soon as I can!!
+Can you show me where I am on a map?
+<Dispatcher> Where are you right now?
+3333 University Way, Kelowna
+<Dispatcher> Getting Map from https://maps.googleapis.com/maps/api/staticmap?center=3333+University+Way%2C+Kelowna&size=600x300&markers=color:blue%7C3333+University+Way%2C+Kelowna&sensor=false&key=AIzaSyDJ8jbyWJzJQrrYGVN807xxnkfy7PlHEdk
+Can you send me a Google Street View image of my location, so I can make sure you know where the emergency is?
+<Dispatcher> Where are you right now?
+Old Vernon Road, Kelowna
+<Dispatcher> Getting Image from https://maps.googleapis.com/maps/api/streetview?size=600x300&location=Old+Vernon+Road%2C+Kelowna&sensor=false&key=AIzaSyDJ8jbyWJzJQrrYGVN807xxnkfy7PlHEdk
+<Dispatcher> Does the image match the location where you are right now (yes/no)?
+no
+<Dispatcher> Where are you right now?
+3333 University Way, Kelowna
+<Dispatcher> Getting Image from https://maps.googleapis.com/maps/api/streetview?size=600x300&location=3333+University+Way%2C+Kelowna&sensor=false&key=AIzaSyDJ8jbyWJzJQrrYGVN807xxnkfy7PlHEdk
+<Dispatcher> Does the image match the location where you are right now (yes/no)?
+<Dispatcher> OK. Please stay on the line, and we'll have help there right away.
+<Dispatcher> Why don't you ask me some questions about Batman while we wait?
+Why are you a bat?
+<Dispatcher> Bats are really scary!!! I fell down a well when I was a kid and cried the bats were so scary!
+Who's in the Justice League?
+<Dispatcher> The core members of the Justice League are Myself, Superman, Wonder Woman, Green Lantern, Flash, and the Martian. They are my only friends
+Do you like Wonder Woman?
+<Dispatcher> Yes...her and I have always had a 'thing'.  We're both in the Justice League.
+How did your parents die?
+<Dispatcher> My parents died when I was  little boy. I watched them be murdered...
+Who killed them?
+<Dispatcher> A bad guy! I don't want to talk about it!!! :'(
+OK. Tell me about your enemies.
+<Dispatcher> I have many enemies. The joker, Raz Al-gul, the Penguin, and Two-Face are the enemies I encounter the most
+Thanks! The police is here!
+<Dispatcher> You're welcome.
+Bye
+<Dispatcher> Goodbye, Gotham Citizen

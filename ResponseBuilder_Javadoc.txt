@@ -1,0 +1,30 @@
+/**
+ * Given a Response Template as input, the Response Builder fills in the canned
+ * sentence with its variable substitutions and returns the response as a
+ * string. A variable substitution may optionally come from the memTable, which
+ * contains previous user input.
+ * 
+ * @author Bryce
+ * @author Yasha
+ * 
+ */
+	/**
+	 * Method that takes a given Response Template, and user inputed Keywords
+	 *  and builds a Response to print
+	 */
+	/**
+	 * This is the main function that builds the response of the batterbot. 
+	 * 
+	 * @param template ResponseTemplateInterface that needs to be filled in. 
+	 * @param keys The List of keywords as a KeyWordList that were extracted from the previous user input. 
+	 * @return The batterbot's response as a String. 
+	 */
+	public String buildResponse(ResponseTemplate template, KeyWordList keys);
+	
+
+	/**
+	 * Method that takes a string and returns TRUE if it starts with #
+	 * @param str
+	 * @return
+	 */
+	public boolean fromMemory(String str)

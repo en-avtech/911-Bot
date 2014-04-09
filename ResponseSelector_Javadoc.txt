@@ -1,0 +1,30 @@
+/**
+ * The Response Selector contains a reference to a Hash Table storing pointers
+ * to all of the Response Templates. The keys for the hash table are the
+ * keywords, and the values are then the pointers to the Response Templates.
+ * This allows for quickly finding all of the relevant Response Tables based on
+ * a set of found keywords.
+ * 
+ * Evaluates all of the possible relevant keywords.
+ * 
+ * 
+ * @author Yasha
+ * 
+ */
+
+/**
+	 * Selects the most relevant response template by using the keywords from the last user input.
+	 * 
+	 * @param keys List of keywords selected by the LP
+	 * @return Returns a pointer to the selected response template.
+	 */
+	public ResponseTemplate selectTemplate(KeyWordList keys);
+
+/**
+	 * Helper method to compare if two strings are the same.
+	 * 
+	 * @param key1 First String
+	 * @param key2 Second String
+	 * @return int value of their comparison. 1 for same, 0 for different.
+	 */
+	private int match(String key1, String key2)

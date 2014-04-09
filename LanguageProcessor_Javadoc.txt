@@ -1,0 +1,18 @@
+/**
+ * Our implementation of the Language Processor is relatively simple. The
+ * Language Processor takes in the user input as a String. The Language
+ * Processor then loops through a list of all of the known keywords, and
+ * searches through the user input looking for each one. Every keyword that is
+ * found is then stored in a list, which is passed to the Response Selector.
+ * 
+ * @author Yasha
+ * @author Ephraim
+ */
+
+	/**
+	 * This function has one main goal, that is to extract all of the keywords from the input String.
+	 * 
+	 * @param input This user response as a String
+	 * @return A list of keywords found in the input as a KeyWordList
+	 */
+	public KeyWordList extractKeyWords(String input);

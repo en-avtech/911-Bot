@@ -1,0 +1,15 @@
+/**
+	 * This method is used to define criteria for a response template that
+	 * determines whether or not this question can be asked during the conversation.
+	 * 
+	 * The default is for this function to return 1, which indicates that the
+	 * question may be asked at any time during the conversation. 
+	 * 
+	 * More specific rules should be defined during the ResponseTemplate instantiation. 
+	 * 
+	 * @return The integer output for this function will be multiplied to the relevancy
+	 * ranking of the response template. This means that a value of 0 will force the 
+	 * question to not be asked. A value of 1 will allow the question. Other values
+	 * are allowed, but should be used with care, as they will affect the ordering of
+	 * the questions asked.
+	 */
