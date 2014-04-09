@@ -67,8 +67,8 @@
           <tags>persp.newWizSC:org.eclipse.mylyn.tasks.ui.wizards.new.repository.task</tags>
           <tags>persp.viewSC:org.eclipse.wb.core.StructureView</tags>
           <tags>persp.viewSC:org.eclipse.wb.core.PaletteView</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_bqsxIL7DEeOcHLDPZNu1kg" selectedElement="_bqtYNL7DEeOcHLDPZNu1kg" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_bqsxIb7DEeOcHLDPZNu1kg" containerData="1853" selectedElement="_bqsxIr7DEeOcHLDPZNu1kg">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_bqsxIL7DEeOcHLDPZNu1kg" selectedElement="_bqsxIb7DEeOcHLDPZNu1kg" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_bqsxIb7DEeOcHLDPZNu1kg" containerData="3305" selectedElement="_bqsxIr7DEeOcHLDPZNu1kg">
               <children xsi:type="basic:PartStack" xmi:id="_bqsxIr7DEeOcHLDPZNu1kg" elementId="left" containerData="6000" selectedElement="_bqsxI77DEeOcHLDPZNu1kg">
                 <tags>newtablook</tags>
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
@@ -85,7 +85,7 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_bqtYM77DEeOcHLDPZNu1kg" elementId="org.eclipse.egit.ui.RepositoriesView" toBeRendered="false" ref="_bqmqgL7DEeOcHLDPZNu1kg"/>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_bqtYNL7DEeOcHLDPZNu1kg" containerData="8147" selectedElement="_bqtYNb7DEeOcHLDPZNu1kg">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_bqtYNL7DEeOcHLDPZNu1kg" containerData="6695" selectedElement="_bqtYNb7DEeOcHLDPZNu1kg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_bqtYNb7DEeOcHLDPZNu1kg" containerData="6755" selectedElement="_bqtYNr7DEeOcHLDPZNu1kg" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_bqtYNr7DEeOcHLDPZNu1kg" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_bo6ocL7DEeOcHLDPZNu1kg"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_bqtYN77DEeOcHLDPZNu1kg" containerData="2500">
@@ -258,7 +258,7 @@
       <tags>categoryTag:General</tags>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_bpvH0b7DEeOcHLDPZNu1kg" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide//icons/full/eview16/problems_view.gif" tooltip="0 errors, 98 warnings, 0 others" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings (98 items)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;120&quot; org.eclipse.ui.ide.markerType=&quot;120&quot; org.eclipse.ui.ide.pathField=&quot;160&quot; org.eclipse.ui.ide.resourceField=&quot;120&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;400&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;120&quot; org.eclipse.ui.ide.markerType=&quot;120&quot; org.eclipse.ui.ide.pathField=&quot;160&quot; org.eclipse.ui.ide.resourceField=&quot;120&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;400&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_cCdJ0L7DEeOcHLDPZNu1kg" elementId="org.eclipse.ui.views.ProblemView">
